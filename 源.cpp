@@ -52,7 +52,7 @@ int main()
 		{
 			rect_left_x = width;
 		}
-
+		//dasdasdasdas
 		cleardevice(); //清空画布
 		fillcircle(ball_x, ball_y, radius);
 		fillrectangle(rect_left_x, height - rect_height, rect_left_x + rect_width, height);
